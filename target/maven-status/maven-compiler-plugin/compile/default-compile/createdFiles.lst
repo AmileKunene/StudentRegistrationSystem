@@ -1,0 +1,5 @@
+com\mycompany\studentregistrationsystem\InternationalStudent.class
+com\mycompany\studentregistrationsystem\RegularStudent.class
+com\mycompany\studentregistrationsystem\TransferStudent.class
+com\mycompany\studentregistrationsystem\Student.class
+com\mycompany\studentregistrationsystem\StudentRegistrationSystem.class
